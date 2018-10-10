@@ -1,0 +1,3 @@
+kubernetes:
+  apiUrl: https://localhost:6443
+  namespace: neighbor
