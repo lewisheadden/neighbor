@@ -1,6 +1,6 @@
 package com.lewisheadden.neighbor;
 
-import com.lewisheadden.neighbor.runner.KubernetesEventListener;
+import com.lewisheadden.neighbor.reactions.runner.KubernetesEventListener;
 import io.kubernetes.client.ApiException;
 import javax.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
